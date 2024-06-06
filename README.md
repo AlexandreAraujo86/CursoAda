@@ -17,6 +17,10 @@ git diff --staged - demonstra as alterações após ser enviada para o staged.
 
 git commit -m "Informação do commit enviado" - informar o que foi modificado ou incluido ao repositório 
 
+git log - demonstra as modificações ocorridas nos arquivos após os commits
+
+git restore NOMEARQUIVO - retorna ao ponto anterior
+
 Existem 4 status que o arquivo pode estar:
 
 UNTRACKED - Arquivo adicionado ao local e não versionado
