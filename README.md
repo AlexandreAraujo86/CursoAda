@@ -3,6 +3,14 @@
 ## CONCEITOS
 Git - ferramente de versionamento de código
 
+Existem 4 status que o arquivo pode estar:
+
+UNTRACKED - Arquivo adicionado ao local e não versionado
+UNMODIFIED - Esta mapeado pelo git, ja passou pelo Staged e dado commit
+MODIFIED - Apos editar modificação de algum arquivo e não enviar ao repositório, ele fica neste status.
+STAGED - pronto para dar o commit
+
+
 ##COMANDOS
 
 git --config user.name "NOME" - adiciona o nome do usuário adicionado.
@@ -20,10 +28,4 @@ git commit -m "Informação do commit enviado" - informar o que foi modificado o
 git log - demonstra as modificações ocorridas nos arquivos após os commits
 
 git restore NOMEARQUIVO - retorna ao ponto anterior
-
-Existem 4 status que o arquivo pode estar:
-
-UNTRACKED - Arquivo adicionado ao local e não versionado
-UNMODIFIED - Esta mapeado pelo git, ja passou pelo Staged e dado commit
-MODIFIED - Apos editar modificação de algum arquivo e não enviar ao repositório, ele fica neste status.
-STAGED - pronto para dar o commit
+git restore --staged NOMEARQUIVO - retorna da área do staged para a área de modified
