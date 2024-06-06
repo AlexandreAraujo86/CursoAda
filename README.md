@@ -3,7 +3,6 @@
 ## CONCEITOS
 Git - ferramente de versionamento de código
 
-
 ##COMANDOS
 
 git --config user.name "NOME" - adiciona o nome do usuário adicionado.
@@ -15,6 +14,8 @@ git add - adiciona o arquivo ao staged
 
 git diff - verifica o que foi alterado, quais linhas
 git diff --staged - demonstra as alterações após ser enviada para o staged.
+
+git commit -m "Informação do commit enviado" - informar o que foi modificado ou incluido ao repositório 
 
 Existem 4 status que o arquivo pode estar:
 
