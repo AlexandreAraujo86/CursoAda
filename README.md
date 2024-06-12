@@ -29,3 +29,16 @@ git log - demonstra as modificações ocorridas nos arquivos após os commits
 
 git restore NOMEARQUIVO - retorna ao ponto anterior
 git restore --staged NOMEARQUIVO - retorna da área do staged para a área de modified
+
+
+git push remote orign - envia os comandos para o repositório remotos
+git pull - baixa os comandos que constam no repositório remoto, após alteração de outra pessoa.
+git fetch -  Consulta os comandos que foram adicionados, para então realizar o git pull
+
+git branch NOME - Cria uma nova branch com nome definido
+
+git log --oneline --decorate - consulta em qual branch esta sendo apontada
+
+git checkout NOME - Altera a branch para a nomeada
+
+git merge NOME - Puxa todos arquivos que estava em outra branch - unindo os fluxos
