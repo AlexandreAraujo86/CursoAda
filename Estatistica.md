@@ -18,3 +18,10 @@
             Sistematica - regra pre definida - ex: Quando definimos uma coleta de 900 casas para 50, realiza uma razão pela divisão do total pela amostra e sorteia a iniciale vai aplicando as razões sequencialmente.
             Conglomerado - dividida em miniaturas não homogeneas e seleciona amostra aleatoria desse conglomerados. Ex: Bairros, quarterões, Comunidade. Renda familiar de uma cidade.
         Amostra não probabilistica -não ha probabilidade clara - acidental, intencional e por cotas.
+## Tipos de Variáveis
+    Qualitativos: 
+        - Nominais -
+        - Ordinais -
+    Quantitativos:
+        - Discretos -
+        - Continuos -
