@@ -59,15 +59,18 @@
         Duas variaçoes podem ser qualitativas
         Duas variações podem ser quantitativas
         Uma quali e outra quantitativa
-        ![alt text](image-3.png)
+![alt text](image-3.png)
         Coeficiente de correlação de pearson = ![alt text](image-4.png)
 ## Regressão Linear Simples
-    ![alt text](image-5.png)
+![alt text](image-5.png)
     Coeficiente de correlação ![alt text](image-6.png) - quanto mais proximo de 1  mais forte ela é.
 ## Derivadas - probabilistico
     Deterministico -  valor sempre o mesmo
     Não deterministico - valor altera - depende do acaso. Quanto mais feito, mais padrões são encontrados.
     Espaço amostral - resultados possíveis de um experimento
     Evento - subconjunto do espaço amostral. Distingue um evento do outro.
-
-
+## Probabilidade
+Classica
+![alt text](image-7.png)
+Frequentista
+![alt text](image-8.png)
